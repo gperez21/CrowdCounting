@@ -1,0 +1,735 @@
+city,name,state,country,address,index
+Aberdeen,Anderson Park,SD,US,,1
+Abilene,Everman Park Downtown,TX,US,,2
+Adrian,Old Lenawee County Courthouse,MI,US,,3
+Akron,Main and Mill,OH,US,,4
+Alameda,Intersection of Park St. & Santa Clara Ave.,CA,US,,5
+Alamosa,Cole Park,CO,US,,6
+Alamogordo,White Sands Boulevard,NM,US,,7
+Albany,West Capitol Park,NY,US,,8
+Albany,Linn County Courthouse,OR,US,,9
+Albert Lea,Freeborn County Detention Center,MN,US,,10
+Albuquerque,Civic Plaza,NM,US,,11
+Alexandria,Kingstowne Towne Center (glassy area),VA,US,,12
+Alliance,Box Butte County Courthouse,NE,US,,13
+Alpine,Brewster County Courthouse lawn,TX,US,,14
+Alvarado,Prairieland Detention Center,TX,US,,15
+Amarillo,Sanborn Park,TX,US,,16
+Ambler,Kohler Park Horsham,PA,US,,17
+Anacortes,Corner of 12th and Commercial,WA,US,,18
+Anchorage,Delaney Park Strip,AK,US,,19
+Andalusia,Court Square,AL,US,,20
+Anderson,Dickmann Town Center Park,IN,US,,21
+Andover,Intersection of rt. 133 and rt. 28 (Shawsheen Square),MA,US,,22
+Angels Camp,Utica Park,CA,US,,23
+Angola,First Congregational United Church of Christ,IN,US,,24
+Ann Arbor,The Diag,MI,US,,25
+Antler,,ND,US,,26
+Appleton,Houdini Plaza,WI,US,,27
+Arkville,,NY,US,,28
+Arlington Heights,Village Hall; North School Park,IL,US,,29
+Asbury Park,Springwood Park,NJ,US,,30
+Asheville,68 Haywood,NC,US,,31
+Ashland,Ashland County Courthouse Lawn,WI,US,,32
+Astoria,"Astoria, 16th and Marine Drive, river side",OR,US,,33
+Athens,UGA Arch,GA,US,,34
+Atlanta,Atlanta City Detention Center,GA,US,,35
+Auburn,Toomer's Corner,AL,US,,36
+Auburn,Longley Bridge,ME,US,,37
+Augusta,Maine State House,ME,US,,38
+Aurora,,CO,US,,39
+Aurora,City Hall,IL,US,,40
+Austin,Texas State Capitol,TX,US,,41
+Avalon,Casino Building to Wrigley Stage,CA,US,,42
+Bainbridge Island,Waypoint Park,WA,US,,43
+Bakersfield,ICE Office 800 Truxtun Ave,CA,US,,44
+Baltimore,Patterson Park,MD,US,,45
+Bangor,Cascade Park,ME,US,,46
+Bar Harbor,Bar Harbor Village Green,ME,US,,47
+Barnstable,Barnstable Village,MA,US,,48
+Barnstable,Unitarian Church of Barnstable,MA,US,,49
+Barrington,In front of Rep. Peter Roskam's Barrington Office,IL,US,,50
+Barstow,Fountain next to Union Bank,CA,US,,51
+Bath,"In front of the Customs House, on Front Street ",ME,US,,52
+Baton Rouge,US Border Patrol Office,LA,US,,53
+Battle Creek,Calhoun County Justice Center,MI,US,,54
+Bay St Louis + Pass Christian,Bay Bridge,MS,US,,55
+Bayside,"Bell Blvd LIRR entrance, West Side of Street",NY,US,,56
+Beacon,Polhill Park,NY,US,,57
+Beaver,Beaver County Court House,PA,US,,58
+Bedminster,Clarence Dillon Public Library,NJ,US,,59
+Belchertown,Belchertown Common,MA,US,,60
+Bellingham,Bellingham City Hall,WA,US,,61
+Bend,NW Greenwood Ave & NW Bond St (NE Corner) - Diagonal from Walden's office,OR,US,,62
+Berkeley,"Old City Hall Steps, 2134 Martin Luther King Jr Way",CA,US,,63
+Bethlehem,Payrow Plaza,PA,US,,64
+Big Rapids,Big Rapids Community Library,MI,US,,65
+Billings,Yellowstone County Courthouse,MT,US,,66
+Binghamton,Federal Building,NY,US,,67
+Birmingham,Caldwell Park,AL,US,,68
+Bisbee,Iron man statue/ Coshise County Court House,AZ,US,,69
+Bishop,Bishop Park,CA,US,,70
+Bloomington,Monroe County Courthouse,IN,US,,71
+Bluffton,Bluffton Village Town Center,SC,US,,72
+Boca Raton,Sanborn Square,FL,US,,73
+Boise,Idaho State Capitol Building,ID,US,,74
+Bonney Lake,18211 State Route 410 E,WA,US,,75
+Bordentown,,NJ,US,,76
+Boston,City Hall Plaza,MA,US,,77
+Boston,South Bay House of Correction,MA,US,,78
+Bothell,Intersection of Bothell Way NE and Woodinville Drive,WA,US,,79
+Boulder,Unitarian Universalist Church of Boulder,CO,US,,80
+Boulder,Walk around Thunderbird Lake at Frasier Meadows Retirement Community,CO,US,,81
+Boulder City,,NV,US,,82
+Bowling Green,Senator Rand Paul’s Office,KY,US,,83
+Bowling Green,BG Green Space (Wooster Green),OH,US,,84
+Bozeman,Bozeman Public Library,MT,US,,85
+Brainerd,Along Washington Street near Brainerd Historic Water Tower,MN,US,,86
+Brattleboro,Brattleboro Common,VT,US,,87
+Bremerton,Evergreen Rotary Park,WA,US,,88
+Brenham,Town Square,TX,US,,89
+Brewster,1st Parish UU Church,MA,US,,90
+Bridgeport,Sts. Peter and Paul Ukrainian Catholic Church,PA,US,,91
+Bridgeton,Cumberland County Courthouse,NJ,US,,92
+Bridgewater,Town Common,MA,US,,93
+Bristol,Bristol Sign,TX,US,,94
+Brookline,,MA,US,,95
+Brooklyn,,NY,US,,96
+Brownsville,Centro Cultural de Cameron Park,TX,US,,97
+Brunswick,City Hall,GA,US,,98
+Brunswick,Brunswick Town Hall,ME,US,,99
+Bryan,Congressman Bill Flores' Bryan District Office,TX,US,,100
+Buchanan,,TN,US,,101
+Buffalo,US District Court for the Western District of New York,NY,US,,102
+Burbank,,CA,US,,103
+Burlington,Carolina Flea Market,NC,US,,104
+Burlington,Burlington Municipal Building,NC,US,,105
+Burlington,"Start at top of Church Street, end at Battery Park",VT,US,,106
+Buzzards Bay,Bourne Bridge Rotary (Cape Cod side),MA,US,,107
+Calexico,Imperial Regional Detention Facility [1572 Gateway Rd.],CA,US,,108
+Camarillo,770 Paseo Camarillo,CA,US,,109
+Canton,Canton Village Green,NY,US,,110
+Cape May,Washington Mall,NJ,US,,111
+Carbondale,First Presbyterian Church,IL,US,,112
+Carlsbad,Cannon Park,CA,US,,113
+Carlsbad,"Eddy County Courthouse Lawn, Canal Street",NM,US,,114
+Carpinteria,Peace Corner,CA,US,,115
+Casper,Pioneer Park,WY,US,,116
+Cedar Falls,Outside the office of congressman Rod Blum,IA,US,,117
+Cedar Rapids,Sokol Park,IA,US,,118
+Chadron,Downtown Plaza,NE,US,,119
+Champaign,Champaign public library to intersection of Green and Neil,IL,US,,120
+Chandler,WF Chandler,AZ,US,,121
+Chapel Hill,Chapel hill Court house,NC,US,,122
+Charleston,Custom House,SC,US,,123
+Charlotte,First Ward Park,NC,US,,124
+Charlottesville,Albemarle County Office Building,VA,US,,125
+Chatham,Sidewalk in front of Town Hall,MA,US,,126
+Chattanooga,Renaissance Park/Coolidge Park,TN,US,,127
+Chicago,Richard J. Daley Center,IL,US,,128
+Chico,City Plaza,CA,US,,129
+Cincinnati,Washington Park,OH,US,,130
+Claremont,Memorial Park,CA,US,,131
+Clermont,Sunnyside Plaza,FL,US,,132
+Cleveland,Market Square Park,OH,US,,133
+Clifton,Main Memorial Park,NJ,US,,134
+Cobleskill,Veterans Park,NY,US,,135
+Coeur d'Alene,Picnic Shelter Riverstone Park,ID,US,,136
+Colorado Springs,City Hall,CO,US,,137
+Colrain,,MA,US,,138
+Columbia,Boone County Courthouse,MO,US,,139
+Columbia,South Carolina State House,SC,US,,140
+Columbus,Ohio Statehouse,OH,US,,141
+Columbus,the plaza in Colombus to the Puerto Palomas border crossing,NM,US,,142
+Concord,Todos Santos Plaza,CA,US,,143
+Concord,NH State House,NH,US,,144
+Conway,Main Street,NH,US,,145
+Conway,,NC,US,,146
+Cookeville,Cookeville Town Square,TN,US,,147
+Cooperstown,Cooperstown Pioneer Park on Main Street,NY,US,,148
+Coos Bay,Coos Bay Boardwalk,OR,US,,149
+Corpus Christi,Cole park,TX,US,,150
+Cortland,Christ Community Church,NY,US,,151
+Corvallis,,OR,US,,152
+Coupeville,Island County Courthouse,WA,US,,153
+Covington,St. Tammany Justice Center,LA,US,,154
+Cranston,Slate Hill Park near the ACI,RI,US,,155
+Crawfordville,ICE Detention Center,FL,US,,156
+Cumberland,Corner of Baltimore and Liberty Streets,MD,US,,157
+Dade City,Historic Downtown Courthouse,FL,US,,158
+Dallas,Dallas City Hall,TX,US,,159
+Dallas,outside ICE building near Stemmons Freeway,TX,US,,160
+Dalton,parking lot of Delray Farms Fresh Market on East Walnut Avenue,GA,US,,161
+Damariscotta,The Bridge at Newcastle And Damariscotta,ME,US,,162
+Darlington,Darlington City Square (Courthouse),SC,US,,163
+Dartmouth,in front of Bristol County Sheriff’s Office,MA,US,,164
+Davenport,Vanderveer park,IA,US,,165
+Davidson,Davidson Village Green,NC,US,,166
+Dayton,Courthouse Square-Montgomery Co,OH,US,,167
+Daytona Beach,Corner of International Speedway Blvd and Beach Street,FL,US,,168
+Deep River,Town Hall,CT,US,,169
+Deland,Corner of New York Ave & Woodland,FL,US,,170
+Delaware,Bicentennial,OH,US,,171
+Dennis,In Front of Town Hall,MA,US,,172
+Denton,Denton County Courthouse on The Square,TX,US,,173
+Denver,Civic Center Park,CO,US,,174
+Des Moines,Iowa State Capitol,IA,US,,175
+Detroit,Hart Plaza,MI,US,,176
+Detroit,Clark Park,MI,US,,177
+Detroit Lakes,Veteran's Memorial Park,MN,US,,178
+Dodge City,Dodge City Medical Center Parking Lot,KS,US,,179
+Dothan,Angel Of Hope Statue (Westgate Park),AL,US,,180
+Dover,Legislative Mall,DE,US,,181
+Downers Grove,DG North: Main St Parking Lot; Fishel Park,IL,US,,182
+Doylestown,Old Bucks County Courthouse,PA,US,,183
+Dublin,City Hall Plaza,CA,US,,184
+Duluth,MN Power Plaza,MN,US,,185
+Dunkirk,"Washington Park,",NY,US,,186
+Durango,Buckley Park,CO,US,,187
+Durham ,,NC,US,,188
+East Haddam,Two Wrasslin' Cats,CT,US,,189
+East Meadow,Nassau County Correctional Facility,NY,US,,190
+East Quogue,East Quogue Park,NY,US,,191
+East Setauket,,NY,US,,192
+Eastham,Windmill Green,MA,US,,193
+Easthampton,Millside park,MA,US,,194
+Eau Claire,Eau Claire Wilson Park,WI,US,,195
+Edinburg,Edinburg county court,TX,US,,196
+Edison,Oak Tree Pond Park,NJ,US,,197
+Edwards,Edwards Rest Stop,CO,US,,198
+El Cajon,City Hall,CA,US,,199
+El Paso,San Jacinto Plaza,TX,US,,200
+Elgin,Corner of Kimball Street and Grove Avenue,IL,US,,201
+Ellensburg,"Rotary Pavilion, 104 East 4th Avenue",WA,US,,202
+Elmira,Wisner Park,NY,US,,203
+Encinitas,Swami's Beach Park (above the beach),CA,US,,204
+Englewood,Depot Square,NJ,US,,205
+Essex Junction,5 Corners,VT,US,,206
+Eugene,"Kesey square, also known as Broadway Plaza",OR,US,,207
+Eureka,,CA,US,,208
+Evansville,Winfield K Denton Federal Building (Public Sidewalk),IN,US,,209
+Everett,Snohomish County Superior Court,WA,US,,210
+Fair Harbor,,NY,US,,211
+Fairbanks,Golden Heart Plaza,AK,US,,212
+Fairfield,"Sherman Green Gazebo, Downtown Fairfield",CT,US,,213
+Fairfield,Central Park Square,IA,US,,214
+Falmouth,Falmouth Village Green,MA,US,,215
+Fargo,downtown Fargo Library,ND,US,,216
+Farmington,Farmington Post Office,ME,US,,217
+Farmington,in front of museum,NM,US,,218
+Fayetteville,Town Center,AR,US,,219
+Fire Island,,NY,US,,220
+Flagstaff,Flagstaff City Hall,AZ,US,,221
+Flemington,courthouse,NJ,US,,222
+Flint,The Downtown Flat Lot,MI,US,,223
+Florence,Mobile Plaza (North Court Street @ East Mobile Street),AL,US,,224
+Ford Smith,74th Street (sidewalk in front of the post office),AR,US,,225
+Fort Bragg,Town Hall,CA,US,,226
+Fort Gratiot,"Birchwood Mall, on the right of way not the mall itself",MI,US,,227
+Fort Myers,Old Fort Myers County Court House,FL,US,,228
+Fort Wayne,Allen County Courthouse Green,IN,US,,229
+Fort Worth,Tarrant County Court House,TX,US,,230
+Framingham,Memorial Building,MA,US,,231
+Frankfort,Breidert Green,IL,US,,232
+Franklin,"The Gazebo in Downtown Franklin, NC - Across from the Courthouse",NC,US,,233
+Frederick,Vista Shopping Center,MD,US,,234
+Fremont,Veterans Park at Fremont Superior Court House,CA,US,,235
+Fresno,Courthouse Park,CA,US,,236
+Friday Harbor,San Juan county district court lawn,WA,US,,237
+Gallup,East Historic Highway,NM,US,,238
+Gainesville,City Hall,FL,US,,239
+Galveston,4700 Seawall Blvd,TX,US,,240
+Gastonia,Martin Luther King Monunment,NC,US,,241
+Geneva,Geneva Lakefront Visitors Center,NY,US,,242
+Gilette,Lasting Legacy Park,WY,US,,243
+Glen Ridge,Glen Ridge Congregational Church,NJ,US,,244
+Glen Rock,Steps of Glen Rock Borough Hall,NJ,US,,245
+Glens Falls,Rep. Stefanik's office,NY,US,,246
+Glenview,Glenview Veteran's Memorial,IL,US,,247
+Glenwood Springs,Sayre Park,CO,US,,248
+Goshen,Elkhart County Courthouse Steps,IN,US,,249
+Gouldsboro,,ME,US,,250
+Granbury,Hood County Courthouse,TX,US,,251
+Grand Forks,Parking Garage behind the County Office Building,ND,US,,252
+Grand Junction,Mesa County Old Courthouse,CO,US,,253
+Grand Marais,Harbor Park,MN,US,,254
+Grand Rapids,Rosa Parks Circle,MI,US,,255
+Grand Rapids,"Central School, Downtown Grand Rapids",MN,US,,256
+Grants Pass,,OR,US,,257
+Granville,Town Green,MA,US,,258
+Grass Valley,Brunswick & Sutton,CA,US,,259
+Great Barrington,"Corner of Main Street and State Road in front of the ""GB"" shrubbery",MA,US,,260
+Great Falls,Civic Center Steps,MT,US,,261
+Great Neck,,NY,US,,262
+Green Bay,Green Bay CityDeck,WI,US,,263
+Greeneville,Greene County Courthouse,TN,US,,264
+Greenfield,Greenfield Town Common,MA,US,,265
+Greenfield,,CA,US,,266
+Greenport,Mitchell Park,NY,US,,267
+Greensboro,Governmental Plaza,NC,US,,268
+Greensboro,LeBauer Park,NC,US,,269
+Greenville,Pitt County Courthouse,NC,US,,270
+Greenville,Graham plaza at main,SC,US,,271
+Greenwich,Town Hall,CT,US,,272
+Gulfport,Steps & deck outside Gulfport Casino,FL,US,,273
+Half Moon Bay,Mac Dutra Park,CA,US,,274
+Hamilton,,NY,US,,275
+Hammond,Hammond Federal Building,IN,US,,276
+Hanover,Corner of Dartmouth College Green closest to Wheelock Street,NH,US,,277
+Harrisburg,Capitol Steps,PA,US,,278
+Harrisonburg,Court Square,VA,US,,279
+Hart,Hart Commons,MI,US,,280
+Harwich,"Western sidewalk of Rt 137, across from Rt. 6 Exit 11 east-bound off ramp stoplight",MA,US,,281
+Haverhill,"White's Corner. Downtown Haverhill, in front of Market Basket PLaza",MA,US,,282
+Healdsburg,Corner of Healdsburg Ave. & Matheson St.,CA,US,,283
+Helena,Women's Park,MT,US,,284
+Hendersonville,Hendersonville Historic Courthouse,NC,US,,285
+Henry County,,TN,US,,286
+Hernando,Senator Roger Wickers Office (In front of his office),MS,US,,287
+Highland Park,,IL,US,,288
+Hillsboro,,OR,US,,289
+Hilo,,HI,US,,290
+Holland,Centennial Park,MI,US,,291
+Hollister,4th and San Benito Street,CA,US,,292
+Hollywood,Diplomat Hotel,FL,US,,293
+Honolulu,Hawaii State Capitol to the Oahu Federal Bldg.,HI,US,,294
+Horsham,Kohler Park,PA,US,,295
+Hot Springs,Bathhouse Row,AR,US,,296
+Houghton,portage lift bridge,MI,US,,297
+Houston,,TX,US,,298
+Huntington Station,49 West Jericho tpke Intersection,NY,US,,299
+Huntsville,Big Spring Park,AL,US,,300
+Hyannis,Old Chili's location-Intersection rt132/rt28 in Hyannis at Airport Rotary,MA,US,,301
+Idaho City,Courthouse Lawn,ID,US,,302
+Idaho Falls,Bonneville County Courthouse,ID,US,,303
+Idyllwild,Town Monument,CA,US,,304
+Indiana,IRMC PARK,PA,US,,305
+Indianapolis,US Court/Federal Building,IN,US,,306
+Inverness,Old Citrus County Courthouse,FL,US,,307
+Iowa City,Pentacrest and downtown Iowa City,IA,US,,308
+Iron Mountain,City Hall,MI,US,,309
+Irvine,Portola High School,CA,US,,310
+Ithaca,"Bernie Milton Pavilion, Ithaca Commons",NY,US,,311
+Jackson,Rep. Tim Walberg's Office,MI,US,,312
+Jackson,Governor's Mansion,MS,US,,313
+Jackson,Madison County Courthouse,TN,US,,314
+Jackson Heights,,NY,US,,315
+Jackson Hole,town square,WY,US,,316
+Jacksonville,City Hall,FL,US,,317
+Jensen Beach,Treasure Coast Mall Entrance,FL,US,,318
+Johnson City,Founder park,TN,US,,319
+Johnstown,,PA,US,,320
+Joliet,Chicago St. Plaza,IL,US,,321
+Jonesboro,Craighead County Courthouse,AR,US,,322
+Juneau,Capital School Park,AK,US,,323
+Kahului,Corner of Pu'unene and Ka'ahumanu,HI,US,,324
+Kahului,Maui Community College,HI,US,,325
+Kailua-Kona,Queen Ka'ahumanu HWY. South of Henry Street,HI,US,,326
+Kalamazoo,Bronson Park,MI,US,,327
+Kalispell,Depot Park,MT,US,,328
+Kamuela,Church Row,HI,US,,329
+Kanab,,UT,US,,330
+Kansas City,Penn Valley Park,MO,US,,331
+Keene,Central Square,NH,US,,332
+Kennett Square,,PA,US,,333
+Kenosha,Navy Memorial Park,WI,US,,334
+Kerrville,Kerr County Courthouse Sidewalk,TX,US,,335
+Ketchikan,Berth 4 Ketchikan dock,AK,US,,336
+Ketchum,Ketchum Town Square,ID,US,,337
+Key Largo,Murray Nelson Center,FL,US,,338
+King City,Corner of Broadway Street and San Antonio Drive ,CA,US,,339
+Kingman,Trinity Episcopal Church,AZ,US,,340
+Kingston,Holy Cross Santa Cruz Church Parking Lot,NY,US,,341
+Knoxville,City County Building,TN,US,,342
+Kodiak,Main Downtown Intersection,AK,US,,343
+La Crosse,Cameron Park,WI,US,,344
+Lafayette,Federal Court,LA,US,,345
+Laguna Beach,Main Beach / Laguna Beach,CA,US,,346
+Lake Charles,Lock Park,LA,US,,347
+Lake Worth,Old Lake Worth City Hall,FL,US,,348
+Lakeland,Lake Mirror,FL,US,,349
+Lakeport,Historic Lake County Courthouse Square,CA,US,,350
+Lambertville,North Union Street Park,NJ,US,,351
+Lancaster,Lancaster library,CA,US,,352
+Lancaster,outside Lancaster County Courthouse,PA,US,,353
+Lanesboro,Lanesboro Baseball field,MN,US,,354
+Langley,,WA,US,,355
+Lansing,Lansing Capitol Building,MI,US,,356
+Laredo,City Hall,TX,US,,357
+Las Vegas,U.S. Federal Courthouse,NV,US,,358
+Lawrence,South Park,KS,US,,359
+Lawrenceville,Gwinnett Justice Center,GA,US,,360
+Lenexa,Shawnee Mission Park,KS,US,,361
+Leonia,,NJ,US,,362
+Lewiston,Sidewalks around Lewiston Public Library,ID,US,,363
+Lewiston/Auburn,Longley Bridge- Auburn side,ME,US,,364
+Lexington,Fayette County Circuit Court,KY,US,,365
+Libby,,MT,US,,366
+Liberty,Daniel Pavilion,TX,US,,367
+Lido Beach,March along Lido Blvd. from Townhouses to Point Lookout,NY,US,,368
+Lincoln,Sen. Deb Fischer Office,NE,US,,369
+Lincoln,Nebraska State Capitol Building steps,NE,US,,370
+Litchfield,Litchfield Town Green,CT,US,,371
+Little Rock,State Capitol grounds,AR,US,,372
+Littleton,Littleton Post Office,NH,US,,373
+Livermore,Flag Pole in downtown Livermore,CA,US,,374
+Livingston,Sidewalk at Depot Park,MT,US,,375
+Logan,Cache County Courthouse,UT,US,,376
+Logansport,Near Logansport Farmers Market,IN,US,,377
+Long Beach,Cesar Chavez Park to Glenn Anderson Federal building,CA,US,,378
+Longmont,,CO,US,,379
+Longview,Heritage Plaza,TX,US,,380
+Longview,Corner of 30th and Ocean Beach Hwy,WA,US,,381
+Los Angeles,Downtown,CA,US,,382
+Louisville,steps of Metro Hall,KY,US,,383
+Louisville,ICE offices on Seventh Street,KY,US,,384
+Lubbock,Tim Cole Statue Memorial Park,TX,US,,385
+Ludington,Rotary Park,MI,US,,386
+Lufkin,Angelina County Courthouse,TX,US,,387
+Lumpkin,Stewart Detention Center,GA,US,,388
+Lunenburg,Outside the Lunenburg Town Hall 17 Main Street,MA,US,,389
+Machias,Lee Pellon Center parking lot across from Helens,ME,US,,390
+Macomb,Chandler Park,IL,US,,391
+Madison,"State Capitol, State St Entrance",WI,US,,392
+Madisonville,First United Bank Plaza on Center Street,KY,US,,393
+Madras,Corner of Hwy 97 and Hwy 26 across from Sonic,OR,US,,394
+Malibu,Corner of Webb Way and PCH,CA,US,,395
+Malone,Arsenal Green,NY,US,,396
+Manchester,Manchester City Hall,NH,US,,397
+Manchester Center,Adams Park,VT,US,,398
+Manistee,Downtown,MI,US,,399
+Mankato,Riverfront Park Outdoor Shelter,MN,US,,400
+Mansfield,North Common,MA,US,,401
+Marquette,Marquette Post Office,MI,US,,402
+Marshalltown,Marshall County Courthouse,IA,US,,403
+Mashpee,Mashpee Rotary,MA,US,,404
+Mason City,Central Park,IA,US,,405
+McAllen,U.S. Border Patrol McAllen Station,TX,US,,406
+McCall,Downtown,ID,US,,407
+McCook,Norris Park,NE,US,,408
+McKinney,"Mitchell Park, near the Square",TX,US,,409
+Medford,Vogel Plaza,OR,US,,410
+Melbourne,Eau Gallie Causeway,FL,US,,411
+Memphis,Gaisman Park,TN,US,,412
+Menomonie,UW Stout Clocktower Plaze to Wilson Park and to the Children at Play sculpture,WI,US,,413
+Merced,Courthouse Park,CA,US,,414
+Meridian,Storey Park,ID,US,,415
+Miami,Tropical Park,FL,US,,416
+Miami,Miami Dade Wolfson Campus to Freedom Tower,FL,US,,417
+Middletown,Union Green,CT,US,,418
+Midland,Midland Park Mall,TX,US,,419
+Milford,City Hall,CT,US,,420
+Milford,Town Hall,MA,US,,421
+Milford,,PA,US,,422
+Milltown,St. Barnabas Episcopal Church,DE,US,,423
+Milwaukee,517 E Wisconsin Ave,WI,US,,424
+Mineral Point,Water Tower Park,WI,US,,425
+Minneapolis,Minneapolis Convention Center,MN,US,,426
+Minocqua,Downtown Minocqua. Meet in Municipal Parking Lot next to Veteran's Park & Post Office,WI,US,,427
+Missoula,Missoula County Courthouse,MT,US,,428
+Mobile,Public Safety Memorial Park,AL,US,,429
+Modesto,Five Points,CA,US,,430
+Monterey,Windows on the Bay,CA,US,,431
+Monticello,,NY,US,,432
+Montgomery,Capitol Sidewalk Dexter Ave,AL,US,,433
+Montrose,Corner of Main Street and Townsend Avenue,CO,US,,434
+Morehead,Fountain Park,KY,US,,435
+Moreno Valley,Cardenas Market,CA,US,,436
+Morgan Hill,Morgan Hill Community and Cultural Center,CA,US,,437
+Morganton,,NC,US,,438
+Mount Vernon,Skagit County courthouse,WA,US,,439
+Mountain View,Civic Center Plaza,CA,US,,440
+Murfreesboro,outside Rep Scott Desjarlais' office,TN,US,,441
+Muscatine,Muscatine Riverside Park - By the Playground,IA,US,,442
+Muskegon,Hackley Park,MI,US,,443
+Myrtle Beach,Valor Memorial Park,SC,US,,444
+Nacogdoches,Banita Creek Park,TX,US,,445
+Nags Head,Dowdy Park and Nags Head Beach,NC,US,,446
+Nantucket,Intersection of South Water St. and Broad St. Nantucket,MA,US,,447
+Napa,Veterans Memorial Park,CA,US,,448
+Naples,Collier County Jail,FL,US,,449
+Nashua,Greeley Park Bandshell side of the Park,NH,US,,450
+Nashville,Centennial Park,TN,US,,451
+Natick,Natick Common,MA,US,,452
+National City,,CA,US,,453
+New Bedford,Bethel AME Church,MA,US,,454
+New Brunswick,New Brunswick City Hall,NJ,US,,455
+New City,Rockland County Courthouse,NY,US,,456
+New London,Williams Park,CT,US,,457
+New Orleans,Congo Square,LA,US,,458
+New Paltz,in front of Elting Memorial Library,NY,US,,459
+New Port Richey,Near Walmart on US 19 @ Ridge Rd,FL,US,,460
+New Rochelle,New Rochelle United Methodist Church,NY,US,,461
+New York,Foley Square to Brooklyn Bridge,NY,US,,462
+New York,666 5th Avenue; near Trump Tower,NY,US,,463
+New York,Jackson Heights; Corona; Queens,NY,US,,464
+Newark,Newark City Hall,NJ,US,,465
+Newburyport,Market Square,MA,US,,466
+Newport News,Rouse Tower ,VA,US,,467
+Newton,Old Newton Courthouse Lawn; Catawba County Museum of History,NC,US,,468
+Nogales,1904 Courthouse,AZ,US,,469
+Norfolk,US Customs and Border Patrol Office,VA,US,,470
+Norfolk,Shoop Park,VA,US,,471
+Norristown,steps of Montgomery County Courthouse,PA,US,,472
+North Dartmouth,Bristol County House of Corrections,MA,US,,473
+North Truro,Rt 6 and Shore Rd,MA,US,,474
+Northborough,Ellsworth Park,MA,US,,475
+Norwalk,Downtown Norwalk,OH,US,,476
+Oakland,Near Lake Merritt,CA,US,,477
+Oberlin,,OH,US,,478
+Ocracoke,,NC,US,,479
+Ojai,Libbey Park,CA,US,,480
+Oklahoma City,Oklahoma State Capitol,OK,US,,481
+Okoboji,Okoboji bridge between West Lake and East Lake,IA,US,,482
+Olympia,"Capitol Campus, Legislative Steps",WA,US,,483
+Omaha,Plaza de la Raza,NE,US,,484
+Onalaska,Caribou coffee,WI,US,,485
+Onancock,,VA,US,,486
+Orlando,Outside Orlando City Hall,FL,US,,487
+Orleans,Orleans Ma. rotary,MA,US,,488
+Oshkosh,Main Street Sundial,WI,US,,489
+Oswego,Corner of W Bridge & W First Streets,NY,US,,490
+Ottawa,Jordan Block,IL,US,,491
+Oxford,Memorial Park,OH,US,,492
+Oxnard,Collections Shopping Center,CA,US,,493
+Palm Springs,Frances Stevens Park,CA,US,,494
+Palmetto Bay,Coral Reef Park,FL,US,,495
+Palo Alto,El Camino Real and Embarcadero Road,CA,US,,496
+Panama City,Hathaway Bridge,FL,US,,497
+Paonia,,CO,US,,498
+Paris,Culbertson Fountain on the Downtown Square,TX,US,,499
+Parkersburg,Bicentennial Park,WV,US,,500
+Pasadena,Pasadena City College,CA,US,,501
+Payson,Intersection of highway 87 and 260,AZ,US,,502
+Peabody,Temple Tiferet Shalom,MA,US,,503
+Pensacola,City Hall,FL,US,,504
+Peterborough,,NH,US,,505
+Peoria,Federal Building and U.S. Courthouse,IL,US,,506
+Petaluma,"Petaluma Mail Depot , parking lot (4th & C streets)",CA,US,,507
+Petoskey,"People's Park - ""Hole in the Ground""",MI,US,,508
+Philadelphia,Philadelphia City Hall North Plaza,PA,US,,509
+Phoenix,Arizona Senate,AZ,US,,510
+Piedmont,Montclair Park,CA,US,,511
+Pikeville,"University of Pikeville, at the bottom of the 99 Steps",KY,US,,512
+Pinedale,Jackie Downie's House,WY,US,,513
+Pinetop,White Mountain Blvd.,AZ,US,,514
+Pittsboro,"Historic Courthouse, Downtown Pittsboro",NC,US,,515
+Pittsburg,John Buckley Square,CA,US,,516
+Pittsburgh,Mellon Square,PA,US,,517
+Pittsfield,Park Square,MA,US,,518
+Plattsburgh,Downtown Plattsburgh,NY,US,,519
+Pleasanton,Delucchi Park,CA,US,,520
+Pocatello,Caldwell Park,ID,US,,521
+Point Arena,In front of our threatened Point Arena Post Office,CA,US,,522
+Pontiac,Pontiac Public Library,MI,US,,523
+Poolesville,Whalen Commons,MD,US,,524
+Port Angeles,"Port Angeles Border Patrol Station (lawn, outside gates)",WA,US,,525
+Port Clinton,,OH,US,,526
+Port Huron,ICE Detention Center,MI,US,,527
+Portland,Portland City Hall,ME,US,,528
+Portland,North Park Blocks,OR,US,,529
+Portsmouth,Market Square in front of the North Church downtown,NH,US,,530
+Portsmouth,Tracy Park,OH,US,,531
+Potsdam,Potsdam Presbyterian Church,NY,US,,532
+Prescott,Prescott Square,AZ,US,,533
+Presque Isle,Outside Hardscrabble Solutions,ME,US,,534
+Princeton,Hinds Plaza,NJ,US,,535
+Prospect Harbor,in front of Gouldsboro Town Office,ME,US,,536
+Providence,State House,RI,US,,537
+Providence,Pontiac Ave,RI,US,,538
+Provincetown,Town Hall,MA,US,,539
+Provo,steps of Historic Utah County Courthouse,UT,US,,540
+Pueblo,Pueblo County Courthouse,CO,US,,541
+Pullman,Cougar Plaza to Reaney Park,WA,US,,542
+Quincy,Second String Music,IL,US,,543
+Racine,Speaker Paul Ryan's office,WI,US,,544
+Raleigh,City Plaza,NC,US,,545
+Ramona,10th and Main Street,CA,US,,546
+Rapid City,Memorial Park,SD,US,,547
+Reading,Reading Town Common,MA,US,,548
+Red Bank,Riverside Gardens Park,NJ,US,,549
+Red Bank,Marine Park,NJ,US,,550
+Redding,Redding City Hall; Cypress Ave,CA,US,,551
+Redmond,Centennial Park,OR,US,,552
+Redondo Beach,Intersection of Hawthorne and Artesia boulevards,CA,US,,553
+Redwood City,Redwood City Courthouse Square,CA,US,,554
+Reno,Reno City Hall,NV,US,,555
+Reno,Reno Federal Building,NV,US,,556
+Rhinebeck,Episcopal Church of the Messiah,NY,US,,557
+Richmond,ICE/West County Detention Center,CA,US,,558
+Richmond,Richmond Municipal Building,IN,US,,559
+Richmond,Virginia Civil Rights Monument,VA,US,,560
+Riverside,Galleria at Tyler,CA,US,,561
+Roanoke,Roanoke Downtown Library,VA,US,,562
+Rochester,Peace Plaza,MN,US,,563
+Rochester,Washington Square Park,NY,US,,564
+Rochester,Federal Building and ICE Office,NY,US,,565
+Rockford,City Hall,IL,US,,566
+Rock Hill,outside U.S. Sen. Lindsey Graham's Rock Hill office,SC,US,,567
+Rockville Centre,,NY,US,,568
+Roseburg,Garden Valley Blvd,OR,US,,569
+Rosewell,,NM,US,,570
+Rouses Point,U.S. Customs and Border Protection Rouses Point,NY,US,,571
+Rutherford,Rutherford Congregational Church,NJ,US,,572
+Rutland,Main Street Park,VT,US,,573
+Sacramento,US Citizenship and Immigration Services,CA,US,,574
+Saint Augustine,Plaza de la Constitución,FL,US,,575
+Saint Charles,Randall & 64,IL,US,,576
+Saint George,St. George Blvd,UT,US,,577
+Saint Joseph,On the bluff in downtown St. Joseph,MI,US,,578
+Saint Joseph,francis street united methodist church,MO,US,,579
+Saint Louis,Kiener Plaza East,MO,US,,580
+Salem,Oregon State Capitol,OR,US,,581
+Salida,Centennial Park - Hwy 50 at Holman,CO,US,,582
+Salisbury,,MD,US,,583
+Salisbury,Kelsey Scott Park,NC,US,,584
+Salt Lake City,Utah State Capitol,UT,US,,585
+San Antonio,San Fernando Cathedral,TX,US,,586
+San Bernardino,655 W Rialto Ave; outside Homeland Security office,CA,US,,587
+San Diego,Waterfront Park,CA,US,,588
+San Francisco,Civic Center Plaza,CA,US,,589
+San Jose,San Jose City Hall,CA,US,,590
+San Leandro,San Leandro City Hall,CA,US,,591
+San Luis,Friendship Park,AZ,US,,592
+San Luis Obispo,SLO County Courthouse,CA,US,,593
+San Mateo,,CA,US,,594
+Sandpoint,Bonner County Courthouse on First Avenue,ID,US,,595
+Sandwich,SandwichFest,MA,US,,596
+Santa Barbara,De La Guerra Plaza,CA,US,,597
+Santa Clarita,city hall,CA,US,,598
+Santa Cruz,Santa Cruz City Hall 809 Center St. and Abbott Square 118 Copper St.,CA,US,,599
+Santa Fe,Railyard Park,NM,US,,600
+Santa Maria,ICE facility,CA,US,,601
+Santa Rosa,"Courthouse Square, Downtown Santa Rosa",CA,US,,602
+Saranac Lake,Riverside Park,NY,US,,603
+Sarasota,Five Points Park,FL,US,,604
+Saratoga Springs,Congress Park,NY,US,,605
+Sault Ste Marie,the eagle statue near Superior Coffee,MI,US,,606
+Savannah,Johnson Square to City Hall,GA,US,,607
+Scottsbluff,Deb Fischer's Office,NE,US,,608
+Scranton,Lackawanna County Courthouse Square,PA,US,,609
+Seattle,SeaTac Detention Center,WA,US,,610
+Sebastian,Riverview Park,FL,US,,611
+Sebastopol,Sebastopol Plaza,CA,US,,612
+Sebring,Sebring High School,FL,US,,613
+Sharon,Post Office Square,MA,US,,614
+Sherman,Grayson County Courthouse Lawn,TX,US,,615
+Sherwood,Hopkins Elementary School,OR,US,,616
+Shorewood,,WI,US,,617
+Shreveport,Caddo Parish Courthouse,LA,US,,618
+Silver CIty,,NM,US,,619
+Sioux City,Long Lines Family Recreation Center,IA,US,,620
+Sioux Falls ,Sidewalks in front of KELO TV station; Fawick Park,SD,US,,621
+Sitka,Crescent Harbor Shelter and the streets of Sitka,AK,US,,622
+Smyrna,,TN,US,,623
+Socorro,Socorro Historic Plaza,NM,US,,624
+Solvang,SOLVANG PARK,CA,US,,625
+Sonoma,Sonoma Plaza,CA,US,,626
+Sonora,Southeast Corner of Mono and Greenley Rd. Intersection,CA,US,,627
+South Bend,Marycrest Building,IN,US,,628
+Southbury,Playhouse Corner,CT,US,,629
+Southport,Waterfront Park,NC,US,,630
+Spokane,Grant Park,WA,US,,631
+Spring Hill,Spring Hill waterfall,FL,US,,632
+Springfield,Old State Capitol,IL,US,,633
+Springfield,Court Square,MA,US,,634
+Springfield,,MO,US,,635
+St George,downtown,UT,US,,636
+Stamford,Stamford Government Center,CT,US,,637
+Starkville,Walking Bridge on University Drive to City Hall,MS,US,,638
+State College,Allen Street Gates,PA,US,,639
+Staten Island,Borough Hall,NY,US,,640
+Statesville,Mitchell College,NC,US,,641
+Staunton,Gypsy Hill Park,VA,US,,642
+Steamboat Springs,Routt County Courthouse Sidewalk,CO,US,,643
+Stevens Point,Division Str,WI,US,,644
+Stevenson Ranch,Richard Rioux Park,CA,US,,645
+Stockton,MLK Plaza,CA,US,,646
+Stratford,Town Hall,CT,US,,647
+Swarthmore,Swarthmore Town Center,PA,US,,648
+Sycamore,DeKalb County Courthouse,IL,US,,649
+Syracuse,Perseverance Park,NY,US,,650
+Tacoma,Wright Park,WA,US,,651
+Tahlequah,Cherokee County,OK,US,,652
+Tallahassee,Florida Capitol Building,FL,US,,653
+Tampa,Joe Chillura Courthouse Square,FL,US,,654
+Telluride,Wilkinson Public Library Terrace Patio,CO,US,,655
+Temecula,Duck Pond,CA,US,,656
+Terre Haute,VIgo County Courthouse of the Prosecuting Attorney,IN,US,,657
+The Dalles,Federal Post Office Sidewalk,OR,US,,658
+The Villages,Lake Sumter Landing Town Square,FL,US,,659
+Tierra Amarilla,,NM,US,,660
+Toledo,Love Wall,OH,US,,661
+Toms River,Ocean County Library,NJ,US,,662
+Topeka,State Capitol,KS,US,,663
+Tracy,E Eaton Ave,CA,US,,664
+Traverse City,Traverse City Courthouse,MI,US,,665
+Tri-Cities,,WA,US,,666
+Troy,Gateway Park,MI,US,,667
+Troy,Lincoln County Sheriff's Department-ICE Detention Center,MO,US,,668
+Truckee,Out front of Old Jail,CA,US,,669
+Truth or Consequences,Ralph Edwards Park,NM,US,,670
+Tulsa,David L Moss Detention Center,OK,US,,671
+Tupelo,Fairpark,MS,US,,672
+Twin Falls,Twin Falls Visitor Center,ID,US,,673
+Ukiah,"Meet at Pear Tree Shopping Center, Perkins west of Orchard",CA,US,,674
+Ullin,Tri-County Detention Center,IL,US,,675
+University Park,University Park Town Field,MD,US,,676
+Vacaville,Vacaville Town Square,CA,US,,677
+Valdez,Outside A Rogue’s Garden,AK,US,,678
+Valdosta,Lowndes County Courthouse,GA,US,,679
+Valencia,Corner of McBean Pkwy and Valencia Blvd,CA,US,,680
+Vallejo,Unity Plaza,CA,US,,681
+Vancouver,"March from 750 Anderson to Esther Short Park , Bell Tower community Square, West Sixth St and Columbia",WA,US,,682
+Ventura,Ventura County Government Center,CA,US,,683
+Vermillion,,SD,US,,684
+Victorville,outside Federal Prison,CA,US,,685
+Vinalhaven,Vinalhaven Flea Market Field,ME,US,,686
+Vineyard Haven,"Five Corners, Vineyard Haven",MA,US,,687
+Virginia,Corner of Highway 53 and 12th Ave,MN,US,,688
+Virginia Beach,Mount Trashmore Park,VA,US,,689
+Visalia,St. Paul's Episcopal Church,CA,US,,690
+Waimea,,HI,US,,691
+Walla Walla,First Congregational Church,WA,US,,692
+Waltham,,MA,US,,693
+Washington,Lafayette Square; White House,DC,US,,694
+Watertown,,NY,US,,695
+Watsonville,Watsonville City Plaza,CA,US,,696
+Wausau,400 Block,WI,US,,697
+Wellfleet,Rt 6,MA,US,,698
+Wellfleet,Wellfleet Town Hall Lawn,MA,US,,699
+Wenatchee,Memorial Park,WA,US,,700
+West Chester,Historic West Chester Courthouse Steps,PA,US,,701
+West Hartford,Farmington and Main,CT,US,,702
+West Hollywood,WeHo - corner of San Vicente and Santa Monica Boulevard,CA,US,,703
+West Leyden,,NY,US,,704
+West Palm Beach,Mar a Lago,FL,US,,705
+West Plains,People's Park - Broadway and Porter Waggoner,MO,US,,706
+West Point,,CA,US,,707
+West Seattle,Lincoln Park,WA,US,,708
+Westborough,Westborough Rotary Club,MA,US,,709
+Westbury,Post Avenue,NY,US,,710
+Westlake Village,Promenade at Westlake,CA,US,,711
+Westminster,Main St at Locust Lane,MD,US,,712
+Wheeling,Market Plaza,WV,US,,713
+White Plains,White Plains Federal Courthouse,NY,US,,714
+Wichita,City Hall,KS,US,,715
+Wichita Falls,Lucy Park,TX,US,,716
+Wilkes Barre,Wilkes Barre Public Square,PA,US,,717
+Williamstown,Field Park,MA,US,,718
+Willimantic,Main St. and Jackson St.,CT,US,,719
+Wilmington,Cool Springs Park,DE,US,,720
+Wilmington,St. Barnabas's Church; Thalian Hall,NC,US,,721
+Wilmington,,OH,US,,722
+Wilton,Wilton Public Library,NH,US,,723
+Winston Salem,Merschel Plaza,NC,US,,724
+Wisconsin Rapids,Centralia Center across Grand Avenue bridge then over Jackson Street bridge,WI,US,,725
+Woodbury,,NJ,US,,726
+Woodstock,McHenry County Jail,NY,US,,727
+Wooster,Downtown public square,OH,US,,728
+Worcester,City Hall,MA,US,,729
+Yakima,Corner of 1st St and Yakima Ave.; US Rep. Dan Newhouse’s district office,WA,US,,730
+York,ICE Detention Center and Immigration Court,PA,US,,731
+Youngstown,Federal Plaza,OH,US,,732
+Yucca Valley,Northeast corner Hwy 62 and Hwy 247 (29 Palms Hwy at Old Woman Springs Rd),CA,US,,733
+Yuma ,Rural Communities Resource Center to the Yuma City Park Picnic Pavilion,CO,US,,734

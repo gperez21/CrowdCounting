@@ -4,8 +4,8 @@
 clear
 set type double
 
-cd "C:\Users\perez_g\Desktop\crowd counting\stata"
-gl root "C:\Users\perez_g\Desktop\crowd counting\stata"
+cd "C:\Users\perez_g\Desktop\crowd counting\CrowdCounting\stata"
+gl root "C:\Users\perez_g\Desktop\crowd counting\CrowdCounting\stata"
 capture mkdir "$root\do"
 capture mkdir "$root\raw"
 capture mkdir "$root\data"
@@ -33,6 +33,18 @@ gen best_guess = (estimatelow + estimatehigh)/2 if estimatelow & estimatehigh
 replace best_guess = estimatelow if missing(best_guess)
 replace best_guess = estimatehigh if missing(best_guess)
 replace best_guess = 1 if missing(best_guess)
+// export for gmaps geocode
+preserve
+	keep city location state country
+	ren citytown city
+	ren location name
+	ren state state
+	gen address = ""
+	gen index = _n
+	export delimited using "$output\families_belong_tog_gmap.csv", nolabel replace
+restore
+
+
 keep x y eventtype source1 estimatetext best_guess estimatehigh estimatelow citytown state
 // export esri file
 ren eventtype Type
