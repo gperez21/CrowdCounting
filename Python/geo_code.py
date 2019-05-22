@@ -87,8 +87,7 @@ def go_code(name, address, city, state):
 
     q = name+","+address+","+city+","+state
     print(q)
-    alt_key = "AIzaSyBm9CYyRp_uDfZpszXY8MZObUt_HbL7cZs"
-    key = "AIzaSyCfVd8mWNCNVNmbJJBHns0FsQMkzQAmtCM"
+
     url_with_address = "https://maps.googleapis.com/maps/api/geocode/xml?address="+name+","+address+","+city+","+state+"&key="+key
     returned = Request(url_with_address).encode('utf8')#, headers={'User-Agent': 'Mozilla/5.0'})
     website = ureq.urlopen(returned).read()
