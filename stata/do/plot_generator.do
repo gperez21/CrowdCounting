@@ -19,14 +19,14 @@ gen Stores = 1
 collapse (sum) Stores, by(_ID STATEFP CD116FP GEOID NAMELSAD)
 // Missouri 29 Pennsylvania 42
 keep if STATEFP == "29" | STATEFP == "42"
-local space = 5
-local pa = `space'*2
+local space = 6
+local pa = `space'*1.5
 local mo = `space'
 sort STATE Store
 gen     x_graph = `mo' if STATE == "29"
 replace x_graph = `pa' if STATE == "42"
-replace x = x - .08*`space' if Store[_n+1] == Store[_n] & STATE[_n+1] == STATE[_n] 
-replace x = x + .08*`space' if Store[_n-1] == Store[_n] & STATE[_n-1] == STATE[_n] 
+replace x = x - .08*`space' if abs(Store[_n+1] - Store[_n]) < 2 & STATE[_n+1] == STATE[_n] 
+replace x = x + .08*`space' if abs(Store[_n-1] - Store[_n]) < 2 & STATE[_n-1] == STATE[_n] 
 gen pos = 3 
 replace pos = 9 if (Store[_n+1] - Store[_n]) < 5 & pos[_n-1] == pos[_n] 
 
@@ -36,8 +36,8 @@ replace state_label = subinstr(state_label, " ","",.)
 
 // Column graphs of two states on same plot
 
-local bottom = `mo'-3
-local top = `pa' + 3
+local bottom = `mo'-2
+local top = `pa' + 2
 twoway scatter Stores x_graph, ///
 ylab(, nogrid) ///
 xtitle("") ///
@@ -47,16 +47,24 @@ xscale(lcolor(black%71)) ///
 ytitle("Dollar Stores in District", color(black%71)) ///
 ylab(,labc(black%71) tlcolor(black%71)) ///
 yscale(lcolor(black%71)) ///
-msize(small) ///
+msize(medsmall) ///
 mcolor(lavender%50) ///
 mlcolor(lavender%90) ///
 mlabel(state_label) ///
-mlabs(tiny) ///
+mlabs(vsmall) ///
 mlabv(pos) ///
 graphregion(color(white))
 
+graph save Graph "$output\MO_PA_DS_per_District.gph"
+graph export "$output\MO_PA_DS_per_District.pdf", as(pdf) replace
 
-
+*
+*
+*
+*
+*
+*
+*
 ////////////////////////////////////////////////////////////////////////////////
 * christmas tree plot of tranches and swings
 replace swing_2018 = swing_2018*100
