@@ -16,7 +16,7 @@ gl GIS "C:\Users\perez_g\Desktop\Politics Data\CrowdCounting\GIS"
 // import DS store and collapse to CD ids
 use "$data\DS_mapped_to_districts", clear
 gen counter_DS = 1
-collapse (sum) counter, by(_ID STATEFP)
+collapse (sum) counter, by(_ID STATEFP STATEFP CD116FP GEOID NAMELSAD)
 // Merge the protests
 merge 1:1 _ID using "$data\protests_by_district"
 keep if _m == 3
@@ -55,3 +55,9 @@ mlabs(vsmall) ///
 
 graph save Graph "$output\stores_protests_districts.gph", replace
 graph export "$output\stores_protests_districts.pdf", as(pdf) replace
+
+use "$Data\Gun_protests_mapped_to_dist.dta", clear
+gen counter_DS = 1
+keep if STATE == "19"
+collapse (sum) counter, by(_ID STATEFP CD116FP GEOID NAMELSAD)
+
