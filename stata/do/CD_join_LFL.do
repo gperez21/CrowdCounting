@@ -1,18 +1,16 @@
-// This file spatially joins xy data to shapefiles
-
-* set up
 clear
 set type double
-cd "C:\Users\perez_g\Desktop\Data_vis_wa\data_vis_wa\Dollar store\Stata\Programs"
 
-gl root "C:\Users\perez_g\Desktop\Data_vis_wa\data_vis_wa\Dollar store"
-gl GIS "$root\GIS"
-gl Stata "$root\Stata"
-gl Dollar_data "$root\Dollar store data"
-gl Data "$Stata\Data"
-gl Dollar_data "$root\Dollar store data"
-gl Electoral_data "$root\Electoral data"
-gl Citylab_data "$root\City lab data"
+cd "C:\Users\perez_g\Desktop\Politics Data\CrowdCounting\stata"
+gl root "C:\Users\perez_g\Desktop\Politics Data\CrowdCounting\stata"
+capture mkdir "$root\do"
+capture mkdir "$root\raw"
+capture mkdir "$root\data"
+capture mkdir "$root\output"
+gl do "$root\do"
+gl raw "$root\raw"
+gl data "$root\data"
+gl output "$root\output"
  
 *Create a Dta from a shape file
 capture shp2dta using "$GIS/Shapefiles/tl_2018_us_cd116.shp", genid(_ID) data("$Data\Districts_data.dta") coor("$Data\Districts_coor.dta") replace
@@ -33,25 +31,25 @@ replace g_lon = -82.457840 if address == "LAND O’LAKES, FL, USA"
 gen _X = g_lon
 gen _Y = g_lat
 
-save "$Data\LFL_info.dta", replace
+save "$data\LFL_info.dta", replace
 
 * Spatial join using geoinpoly points to polygons
-geoinpoly _Y _X using "$Data\Districts_coor.dta"
+geoinpoly _Y _X using "$data\Districts_coor.dta"
 
 
 * merge the matched polygons with the database and get attributes
-merge m:1 _ID using "$Data\Districts_data.dta" 
+merge m:1 _ID using "$data\Districts_data.dta" 
 gen counter = 0 if _m != 3
 replace counter = 1 if _m == 3
 destring STATEFP, gen(num_fip)
 drop if num_fip > 56
 drop _m num_fip
 
-save "$Data\LFL_mapped_to_dist.dta", replace
+save "$data\LFL_mapped_to_dist.dta", replace
 export excel using "$output\geo_coded_LFL.xlsx", sheet("With CD") firstrow(variables) sheetreplace
 
 
-use "$Data\Districts_coor.dta",clear
+use "$data\Districts_coor.dta",clear
 // use "$Data\Districts_data.dta", clear
 gen order = _n
 drop if _X < -165 & (_X !=  . &  _ID == 222) |(_X !=  . &  _ID == 221)
