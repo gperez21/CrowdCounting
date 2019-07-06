@@ -38,6 +38,11 @@ tempfile gun_events
 save `gun_events'
 restore
 save "$Data\Gun_protests_mapped_to_dist.dta", replace
+keep if strpos(Date, "3/24/2018")
+gen counter_mfol = 1
+collapse (sum) counter, by(_ID STATEFP)
+tempfile mfol
+save `mfol'
 
 **** Families Belong Tog ****
 import excel "$raw\geo_coded_FBT_1.xlsx", sheet("Sheet1") firstrow clear
@@ -64,6 +69,10 @@ use "$Data\FBT_mapped_to_dist.dta",  clear
 
 use `gun_events', clear
 merge 1:1 _ID using `FBT_events'
+drop _m
+save "$data\protests_by_district", replace
+
+merge 1:1 _ID using `mfol'
 drop _m
 save "$data\protests_by_district", replace
 
